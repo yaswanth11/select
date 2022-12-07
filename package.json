@@ -50,7 +50,7 @@
     "history": "^4.9.0",
     "moment": "^2.24.0",
     "popper.js": "^1.14.7",
-    "qs": "^6.7.0",
+    "qs": "^6.7.3",
     "react": "^16.8.6",
     "react-autocomplete": "^1.8.1",
     "react-dom": "^16.8.6",
